@@ -11,8 +11,6 @@ In development terms:
 
 AI does not create skill. It multiplies whatever is already there.
 
-***
-
 ## Not a Crutch
 
 A crutch is something you **lean on because you cannot walk properly**.
@@ -26,9 +24,9 @@ In development terms:
 
 That is dependency, not productivity.
 
+***
 
-
-### Common Failure Pattern
+## Common Failure Pattern
 
 * Minimal prompt
 * Blind acceptance of output
@@ -37,7 +35,7 @@ That is dependency, not productivity.
 
 This is misuse, not AI failure.
 
-### Three Non-Negotiable Rules
+## Three Non-Negotiable Rules
 
 1. **You must provide context**
    * Stack, constraints, intent, scope
