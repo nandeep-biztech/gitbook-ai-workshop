@@ -9,7 +9,7 @@ You must say this clearly:
 
 If devs treat it like a chat box, they waste 70 percent of its value.
 
-Cursor’s power comes from:
+**Cursor’s power comes from:**
 
 * Full repo awareness
 * File-level diff generation
@@ -22,52 +22,10 @@ Now we will explore the various modes available in Cursor, examining each one to
 
 Cursor has **five core interaction modes** that matter in practice:
 
-* Ask
-* Plan
-* Agent
-* Debug
-* Browser (Web)
+* [Ask](ask-mode.md)
+* [Plan](plan-mode.md)
+* [Agent](agent-mode.md)
+* [Debug](debug-mode.md)
+* [Browser (Web)](browser-web-mode.md)
 
 Most developers randomly use them. That is wrong.
-
-### 8. How Tools Fit Together (This is the mental model)
-
-Teach this workflow explicitly:
-
-1. **Ask**
-   * Understand code
-   * Clarify intent
-2. **Plan**
-   * Decide approach
-   * Identify risks
-3. **Agent**
-   * Execute changes
-   * Generate boilerplate
-4. **Browser**
-   * Validate against external truth
-
-If they jump directly to Agent, they are skipping the thinking process.
-
-***
-
-### 9. What You Should Warn Them About (Non-negotiable)
-
-Be direct here.
-
-* Cursor will confidently generate wrong code
-* It will follow bad instructions perfectly
-* It will not understand your business context unless you provide it
-
-Rules you should enforce:
-
-* Never paste secrets
-* Never trust generated auth logic blindly
-* Never let AI define business rules alone
-
-***
-
-
-
-> Cursor does not replace engineering skill.\
-> It **amplifies** it.\
-> If your thinking is weak, Cursor will make your mistakes faster.

@@ -1,8 +1,10 @@
+---
+description: Model Context Protocol
+---
+
 # MCP
 
-### MCP (Model Context Protocol). When It Actually Makes Sense
-
-Now, let us talkabout  MCP. Do not hype it. Most teams do not need it yet.
+**Model Context Protocol (MCP).** This is an open standard introduced by Anthropic in November 2024 that allows AI systems, such as large language models (LLMs) and AI agents, to connect with and interact with external data sources, tools, and services in a standardized way. It enables AI to access real-time information, perform actions (like sending emails or running code), and maintain context across different tasks, moving beyond the limitations of their original training data.
 
 #### What is an MCP in simple terms
 
@@ -16,15 +18,15 @@ MCP lets AI:
   * Internal APIs
 * Act with **live context**, not pasted text
 
-#### When MCP is useful
+#### When is MCP useful
 
-Use MCP when:
+**Use MCP when:**
 
 * Context cannot be pasted manually
 * Data changes frequently
 * Decisions depend on the live state
 
-Strong use cases:
+**Strong use cases:**
 
 * Reading Jira tickets directly
 * Analyzing PRs across repos
