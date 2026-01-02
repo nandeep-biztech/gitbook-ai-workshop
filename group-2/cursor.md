@@ -1,6 +1,6 @@
 # Cursor
 
-### 1. First. Reframe Cursor Correctly (Very Important)
+**First. Reframe Cursor Correctly**
 
 You must say this clearly:
 
@@ -16,22 +16,21 @@ Cursor’s power comes from:
 * Multi-step planning
 * Agentic execution
 
-***
+Now we will explore the various modes available in Cursor, examining each one to understand properly and determine when to use which.
 
-### 2. Cursor Modes Explained. When to Use What
+## Cursor Modes Explained. When to Use What
 
-Cursor has **four core interaction modes** that matter in practice:
+Cursor has **five core interaction modes** that matter in practice:
 
 * Ask
 * Plan
 * Agent
+* Debug
 * Browser (Web)
 
 Most developers randomly use them. That is wrong.
 
-***
-
-### 3. ASK Mode. “Read, Explain, Reason”
+### ASK Mode. “Read, Explain, Reason”
 
 #### What it is best at
 
@@ -66,9 +65,7 @@ Use ASK when:
 ASK = zero side effects.\
 If code changes happen here, you are using it wrong.
 
-***
-
-### 4. PLAN Mode. “Think Before You Touch Code”
+### PLAN Mode. “Think Before You Touch Code”
 
 This is the most underused and most important mode.
 
@@ -110,7 +107,7 @@ If a task touches **more than 2 files**, start with PLAN.
 
 ***
 
-### 5. AGENT Mode. “Execute With Supervision”
+### AGENT Mode. “Execute With Supervision”
 
 This is where Cursor becomes dangerous or powerful, depending on discipline.
 
@@ -156,9 +153,7 @@ Say this clearly:
 
 > If you cannot review what AGENT generated, you should not have used it.
 
-***
-
-### 6. BROWSER (WEB) MODE. “External Truth Source”
+### BROWSER (WEB) MODE. “External Truth Source”
 
 #### What Browser mode is for
 
@@ -189,7 +184,7 @@ Always validate against your actual codebase.
 
 ***
 
-### 7. MCP (Model Context Protocol). When It Actually Makes Sense
+### MCP (Model Context Protocol). When It Actually Makes Sense
 
 Now, let us talkabout  MCP. Do not hype it. Most teams do not need it yet.
 
