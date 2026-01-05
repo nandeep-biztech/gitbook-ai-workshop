@@ -40,7 +40,3 @@ Do NOT use MCP when:
 * You are coding a single feature
 * Context fits in a prompt
 * Security controls are unclear
-
-Say this bluntly:
-
-> MCP is for teams, not individuals hacking features.
