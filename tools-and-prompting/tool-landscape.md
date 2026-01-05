@@ -82,7 +82,7 @@ They are used for **day-to-day development velocity**.
 
 <details>
 
-<summary>Codeium</summary>
+<summary><strong>Codeium</strong></summary>
 
 **Best for:**
 
@@ -104,7 +104,7 @@ They are for **understanding problems deeply**.
 
 <details>
 
-<summary>OpenAI Codex / Advanced Reasoning Models</summary>
+<summary><strong>OpenAI Codex / Advanced Reasoning Models</strong></summary>
 
 **Best for:**
 
@@ -144,7 +144,7 @@ These tools are for **learning and discovery**, not shipping code.
 
 <details>
 
-<summary>ChatGPT / Claude (Browser or Ask Mode)</summary>
+<summary><strong>ChatGPT / Claude (Browser or Ask Mode)</strong></summary>
 
 **Best for:**
 
