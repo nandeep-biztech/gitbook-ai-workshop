@@ -92,7 +92,7 @@ AI must not decide.
 
 If the policy is unclear, default to **not using AI**.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ***
 

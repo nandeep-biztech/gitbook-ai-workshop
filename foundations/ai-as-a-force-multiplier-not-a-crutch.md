@@ -4,14 +4,17 @@
 
 A force multiplier is something that **amplifies your existing ability**.
 
-In development terms:
+In development terms
 
-* A strong engineer + AI = faster decisions, less waste, higher output
-* A weak engineer + AI = faster mistakes, more rework
+> **A strong engineer + AI = faster decisions, less waste, higher output**
+>
+> **A weak engineer + AI = faster mistakes, more rework**
 
-AI does not create skill. It multiplies whatever is already there.
+AI does not create skill. It **multiplies whatever is already there**.
 
 ## Not a Crutch
+
+> A **crutch** is something you rely on to compensate for a lack of ability, instead of developing or using that ability yourself.
 
 A crutch is something you **lean on because you cannot walk properly**.
 
@@ -57,7 +60,7 @@ If any of these are violated, productivity drops instead of improving.
 
 * Blindly copy-paste generated code
 * Letting AI decide core logic
-* Treating AI output as “good enough”
+* Treating AI output as “good enough.”
 * Skipping review because “it looks fine.”
 
 **Result:**
@@ -68,7 +71,7 @@ If any of these are violated, productivity drops instead of improving.
 
 ### Correct Usage (Force Multiplier):
 
-Use AI to generate **mechanical and repetitive work**.
+Utilize AI to automate mechanical and repetitive tasks.
 
 #### AI should generate:
 
@@ -81,7 +84,7 @@ Use AI to generate **mechanical and repetitive work**.
 This reduces typing, not thinking.
 
 {% hint style="success" %}
-AI should make your good decisions faster, not make decisions for you.
+AI should help you make better decisions faster, not make decisions on your behalf.
 {% endhint %}
 
 ***

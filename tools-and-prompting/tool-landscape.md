@@ -10,14 +10,14 @@ It is simply the **best starting point for this workshop** because it embeds AI 
 > Good engineers do not marry tools.\
 > They **choose tools based on intent**.
 
-***
-
 ### IDE-Centric AI Tools (Primary Execution Layer)
 
 These tools operate **inside or alongside the editor**.\
 They are used for **day-to-day development velocity**.
 
-#### Cursor
+<details>
+
+<summary><strong>Cursor</strong></summary>
 
 **Best for:**
 
@@ -32,7 +32,11 @@ They are used for **day-to-day development velocity**.
 * Complex refactors
 * Understanding unfamiliar codebases
 
-#### GitHub Copilot
+</details>
+
+<details>
+
+<summary><strong>GitHub Copilot</strong></summary>
 
 **Best for:**
 
@@ -51,7 +55,11 @@ They are used for **day-to-day development velocity**.
 * Filling predictable patterns
 * Speeding up routine coding
 
-#### Windsurf
+</details>
+
+<details>
+
+<summary><strong>Windsurf</strong></summary>
 
 **Best for:**
 
@@ -70,7 +78,11 @@ They are used for **day-to-day development velocity**.
 * Early-stage experiments
 * Short-lived branches
 
-#### Codeium
+</details>
+
+<details>
+
+<summary>Codeium</summary>
 
 **Best for:**
 
@@ -83,14 +95,16 @@ They are used for **day-to-day development velocity**.
 * Cost-sensitive environments
 * Supplementing basic IDE intelligence
 
-***
+</details>
 
 ### Reasoning and Deep Analysis Tools (Thinking Layer)
 
 These tools are **not for writing code first**.\
 They are for **understanding problems deeply**.
 
-#### OpenAI Codex / Advanced Reasoning Models
+<details>
+
+<summary>OpenAI Codex / Advanced Reasoning Models</summary>
 
 **Best for:**
 
@@ -104,9 +118,11 @@ They are for **understanding problems deeply**.
 * Evaluating trade-offs
 * Reviewing risky changes
 
-***
+</details>
 
-#### Antigravity
+<details>
+
+<summary><strong>Antigravity</strong></summary>
 
 **Best for:**
 
@@ -120,13 +136,15 @@ They are for **understanding problems deeply**.
 * Onboarding into unfamiliar products
 * Understanding the blast radius of changes
 
-***
+</details>
 
 ### Research and Exploration Tools (R\&D Layer)
 
 These tools are for **learning and discovery**, not shipping code.
 
-#### ChatGPT / Claude (Browser or Ask Mode)
+<details>
+
+<summary>ChatGPT / Claude (Browser or Ask Mode)</summary>
 
 **Best for:**
 
@@ -139,6 +157,8 @@ These tools are for **learning and discovery**, not shipping code.
 * Early investigation
 * Non-code questions
 * Learning unfamiliar domains
+
+</details>
 
 ***
 
