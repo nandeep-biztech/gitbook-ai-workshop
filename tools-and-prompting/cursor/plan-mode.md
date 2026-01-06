@@ -274,3 +274,8 @@ For EACH ticket (in the finalized implementation order), generate the plan in th
 {% file src="../../.gitbook/assets/ticket planning prompt.mp4" %}
 
 {% file src="../../.gitbook/assets/totp_mfa_implementation_sequence_0cd59901.plan.md" %}
+
+\
+**One More Example (Implement GraphQL client)**
+
+{% file src="../../.gitbook/assets/graphql_codegen_setup_7763f86e.plan.md" %}
