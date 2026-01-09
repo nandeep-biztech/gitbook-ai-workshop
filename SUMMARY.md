@@ -24,3 +24,7 @@
 * [MCP](tools-and-prompting/mcp.md)
 * [Prompt Framework](tools-and-prompting/prompt-framework.md)
 * [Advanced Prompts for Developers](tools-and-prompting/advanced-prompts-for-developers.md)
+
+## Usage Guidelines
+
+* [Best Practices](usage-guidelines/best-practices.md)
