@@ -9,8 +9,6 @@
 
 ### Workshop Objective
 
-* Understand where developers actually lose time
-* Learn how AI tools fit into daily engineering workflows
-* Use AI **deliberately**, not casually
+* Understand **where developers actually lose time**
+* Learn how AI tools fit into **daily engineering workflows**
 * Improve speed **without sacrificing quality**
-

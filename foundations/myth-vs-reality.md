@@ -4,7 +4,7 @@ description: Before tools, we fix the mental model
 
 # Myth vs Reality
 
-<table><thead><tr><th width="343">Myth</th><th>Reality</th></tr></thead><tbody><tr><td><ul><li>AI replaces engineering judgment</li></ul></td><td><ul><li>Engineering judgment is still mandatory</li><li>AI has no understanding of business context, risk, or long-term impact</li></ul></td></tr><tr><td><ul><li>AI makes bad engineers good</li></ul></td><td><ul><li>AI amplifies existing skill</li><li>Poor instructions produce poor results faster</li></ul></td></tr><tr><td>AI automatically increases productivity</td><td><ul><li>Productivity gains come from <strong>workflow changes</strong></li><li>Tools alone do not fix inefficiency</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="343">Myth</th><th>Reality</th></tr></thead><tbody><tr><td><ul><li>AI replaces engineering judgment</li></ul></td><td><ul><li>Engineering judgment is still mandatory</li><li>AI has <strong>no understanding of business context, risk, or long-term impact</strong></li></ul></td></tr><tr><td><ul><li>AI makes bad engineers good</li></ul></td><td><ul><li>AI <strong>amplifies existing skill</strong></li><li><strong>Poor instructions</strong> produce <strong>poor results</strong> faster</li></ul></td></tr><tr><td>AI automatically increases productivity</td><td><ul><li>Productivity gains come from <strong>workflow changes</strong></li><li>Tools alone do not fix inefficiency</li></ul></td></tr></tbody></table>
 
 <details>
 
@@ -31,9 +31,9 @@ Engineering judgment remains non-negotiable.
 
 AI follows instructions.
 
-* If your instructions are weak, unclear, or incorrect, AI will confidently produce bad results faster.
+* If your **instructions are weak, unclear, or incorrect**, AI will confidently produce **bad results faster**.
 
-**AI amplifies skill. It does not create it.**
+> **AI amplifies skill. It does not create it.**
 
 </details>
 
@@ -53,18 +53,18 @@ Productivity gains come from **changing workflows**, not from adding tools.
 
 </details>
 
-### What AI Actually Does Well
+### ✔️ What AI Actually Does Well
 
-* Speeds up understanding of unfamiliar code
-* Reduces boilerplate and repetitive work
-* Assists with debugging and analysis
-* Improves consistency in reviews, tests, and documentation
+* **Speeds up understanding** of unfamiliar code
+* **Reduces boilerplate and repetitive work**
+* **Assists** with debugging and analysis
+* **Improves consistency** in reviews, tests, and documentation
 
 ***
 
-### What AI Does NOT Do
+### ❌ What AI Does NOT Do
 
-* Make architectural decisions for yourself
-* Understand domain-specific business rules
-* Guarantee correctness or safety
+* Make **architectural decisions** for yourself
+* Understand domain-specific **business rules**
+* **Guarantee correctness** or safety
 * Replace code review and validation
