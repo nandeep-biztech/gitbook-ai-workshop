@@ -117,16 +117,16 @@ This enforces **signal over noise**.
 
 ### How Cursor Rules Improve Engineering Outcomes
 
-* Consistency
+* **Consistency**
   * All developers get the same AI behavior.\
     No personal prompting hacks.
-* Predictability
+* **Predictability**
   * AI output follows known patterns.\
     PRs are easier to review.
-* Accountability
+* **Accountability**
   * Rules are version-controlled.\
     Violations are visible.
-* Signal over Noise
+* **Signal over Noise**
   * AI stops flooding the codebase with unnecessary changes.
 
 ***
@@ -142,14 +142,14 @@ Bad rules are worse than no rules.
 
 ***
 
-### What Not to Do
+### ❌ What Not to Do
 
 * Do not write generic rules
 * Do not duplicate documentation
 * Do not encode temporary decisions
 * Do not allow rules to drift from reality
 
-If rules lie, AI will lie.
+**If rules lie, AI will lie.**
 
 ***
 

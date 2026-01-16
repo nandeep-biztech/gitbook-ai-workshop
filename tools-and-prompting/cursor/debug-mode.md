@@ -1,4 +1,4 @@
-# Debug Mode
+# DEBUG Mode
 
 {% embed url="https://youtu.be/UVTh8af8uy4?si=f31WUcosDWif3nmY" %}
 
@@ -40,7 +40,7 @@ Typical workflow:
 4. Validate its reasoning
 5. Apply fixes manually
 
-### Wrong Usage
+### ❌ Wrong Usage
 
 * Asking Debug mode to “just fix it.”
 * Accepting suggested patches without understanding

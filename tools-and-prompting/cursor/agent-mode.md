@@ -29,7 +29,7 @@ Best use cases:
 * Boilerplate refactors
 * Consistent changes across files
 
-#### When NOT to use AGENT
+#### ❌ When NOT to use AGENT
 
 Do NOT use AGENT when:
 

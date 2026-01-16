@@ -28,4 +28,6 @@ Cursor has **five core interaction modes** that matter in practice:
 * [Debug](debug-mode.md)
 * [Browser (Web)](browser-web-mode.md)
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 Most developers randomly use them. That is wrong.

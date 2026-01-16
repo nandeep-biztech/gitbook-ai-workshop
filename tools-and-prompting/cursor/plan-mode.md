@@ -17,8 +17,6 @@ This is the most **underused and most important mode**.
 
 #### When to use PLAN
 
-Use PLAN when:
-
 * Feature scope is unclear
 * Multiple files/modules are involved
 * You are touching legacy or fragile code
@@ -40,9 +38,11 @@ Developers usually:
 
 PLAN eliminates this churn.
 
-> **Rule**
->
-> If a task touches **more than 2 files**, start with PLAN.
+{% hint style="info" %}
+**Rule**
+
+If a task touches **more than 2 files**, start with PLAN.
+{% endhint %}
 
 ### Real Life Example
 

@@ -16,33 +16,33 @@ If you trust AI blindly, the failure is on you.
 
 ***
 
-### Risk 1. AI Hallucination
+### ⚠️ Risk 1. AI Hallucination
 
 * AI can generate code that:
   * Looks correct
   * Compiles successfully
   * Is logically wrong
-* **Hallucinations are more dangerous than syntax errors**
+* <mark style="color:red;">**Hallucinations are more dangerous than syntax errors**</mark>
 
 **Rule**
 
 * Plausible ≠ Correct
 
-### Risk 2. Subtle Bugs
+### ⚠️ Risk 2. Subtle Bugs
 
-AI often introduces:
+**AI often introduces:**
 
 * Incorrect edge-case handling
 * Wrong assumptions about data
 * Incomplete validation
 * Performance issues under load
 
-These bugs:
+**These bugs:**
 
 * Pass basic tests
 * Fail in production
 
-### Risk 3. Data Leakage
+### ⚠️ Risk 3. Data Leakage
 
 AI tools can expose data if misused.
 
@@ -60,7 +60,7 @@ Assume anything you paste **can leave your system**.
 
 ***
 
-### What NOT to Use AI For
+### ❌ What NOT to Use AI For
 
 * Authentication logic without review
 * Authorization and permission checks
@@ -121,5 +121,5 @@ No exceptions.
 
 ### One Rule to End This Section
 
-> AI can help you move fast.\
-> Guardrails are what prevent you from breaking production faster.
+> **AI can help you move fast.**\
+> **Guardrails are what prevent you from breaking production faster.**

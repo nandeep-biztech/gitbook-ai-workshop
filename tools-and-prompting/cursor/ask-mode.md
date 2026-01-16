@@ -4,16 +4,16 @@ description: Read, Explain, Reason
 
 # ASK Mode
 
+{% file src="../../.gitbook/assets/ASK Mode (1).mp4" %}
+
 ### What it is best at
 
-* Understanding existing code
-* Explaining unfamiliar logic
+* **Understanding** existing code
+* **Explaining unfamiliar logic**
 * Answering “why” questions
-* Fast reasoning without changing code
+* **Fast reasoning** without changing code
 
 ### When to use ASK
-
-Use ASK when:
 
 * You did not write the code
 * You are onboarding to a new module
@@ -27,7 +27,7 @@ Use ASK when:
 * “What are the edge cases in this function?”
 * “Is this code thread-safe?”
 
-### When NOT to use ASK
+### ❌ When NOT to use ASK
 
 * When you want code changes
 * When you want refactoring
